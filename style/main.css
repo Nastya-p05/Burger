@@ -3,8 +3,7 @@
     padding: 0;
 }
 body {
-    font-family: 'Lato', sans-serif;
-    font-family: 'Nunito Sans', sans-serif;
+       font-family: 'Nunito Sans', sans-serif;
 }
 .main {background: linear-gradient(180deg, #0C4C7B -100%, #1E2F40 100%);
 
@@ -26,7 +25,7 @@ h1 {
     font-size: 120px;
     font-weight: 800;
     text-transform: uppercase;
-    line-height: 140px;
+    line-height: 120px;
     margin-bottom: 40px;
 }
 h1 span {
@@ -46,7 +45,6 @@ p {
     margin-bottom: 42px;
 }
 a {
-    font-family: 'Nunito Sans', sans-serif;
     color: #1E2F40;
     background-color: #FBB731;
     border-radius: 5px;
